@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f20a1&height=120&section=header"/>
+
 # Teste Técnico - Escribo
 
 Este repositório contém dois diretórios principais: `js` e `teste-escribo`.
@@ -36,4 +38,9 @@ Para testar a função localmente, siga os passos abaixo:
 ## Pasta `teste-escribo`
 
 A pasta `teste-escribo` contém um pequeno site que permite testar a função de uma maneira mais intuitiva. O site está disponível online no seguinte link: [Escribo Test](https://escribo.vercel.app/).
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f20a1&height=120&section=footer"/>
 
