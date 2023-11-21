@@ -21,7 +21,7 @@ Para testar a função localmente, siga os passos abaixo:
 2. **Navegue até o diretório `js`:**
 
     ```bash
-    cd escribo-teste/js
+    cd .\escribo\js\
     ```
 
 3. **Execute o arquivo `index.js` usando o Node.js:**
