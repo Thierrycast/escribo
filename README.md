@@ -15,7 +15,7 @@ Para testar a função localmente, siga os passos abaixo:
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/escribo-teste.git
+    git clone git@github.com:Thierrycast/escribo.git
     ```
 
 2. **Navegue até o diretório `js`:**
