@@ -63,7 +63,7 @@ export default function Home() {
       </form>
 
         <div className={styles.links} >
-          <a href="">- Link do repositorio.</a>
+          <a target='_blank' href="https://github.com/Thierrycast/escribo">- Link do repositorio.</a>
           <a target='_blank' href="https://github.com/Thierrycast">- Meu Github.</a>
         </div>
       </div>
